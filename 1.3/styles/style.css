@@ -1,0 +1,40 @@
+#contain{
+	padding: 20px;
+	background-color: #eee;
+	border: 1px solid #999;
+	height: 100%;
+	overflow: hidden;
+	min-width: 600px;
+}
+
+.container{
+	background-color: #fff;
+	border: 1px solid #999;
+	padding: 20px;
+}
+
+.left{
+	position: relative;
+	float: left;
+	width: 160px;
+}
+
+.left h1{
+	position: absolute;
+	right: 10px;
+	top: 10px;
+	font-size: 18px;
+}
+
+.mid{
+	margin: 0 142px 0 222px; 
+}
+
+.right{
+	float: right;
+	width: 80px;
+}
+
+.right img{
+	margin: 10px 0 10px 0;
+}
